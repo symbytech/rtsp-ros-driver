@@ -1,7 +1,7 @@
 <launch>
 
 
-    <!-- RTSP camera info -->
+    <!-- RTSP camera info  -->
     <!-- <arg name="hostname" value="192.168.1.94" doc="hostname or IP of the rtsp camera" /> -->
     <arg name="username" value = "admin" doc="username for the rtsp camera" />
     <arg name="password" value="Craw!3rcam1" doc="password for the rtsp camera" />
